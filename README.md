@@ -10,16 +10,7 @@ i have a yt channel
 
 
 
-| hi          |     |   hi     |
-| ----------- | --- | -------- |
-| ![5 ] |     |     | ![65]    |
-| ![75] | →   |     |    ![06] |
 
-
-
-[without2]: 
-[without1]: 
-[with2]: 
-[with1]: 
-
-
+ 
+ ### promo
+ if you liked this you should consider [subsribing](youtube.com/ronotbroyt)
