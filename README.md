@@ -1,5 +1,5 @@
 # RoNotBroYT 
-i have a yt channel 
+ 
 > click :star:if you like this
 
 
@@ -7,10 +7,8 @@ i have a yt channel
 
 
 ### about me 
-
-
-
-
- 
+>
+>
+>
  ### promo
  if you liked this you should consider [subsribing](youtube.com/ronotbroyt)
